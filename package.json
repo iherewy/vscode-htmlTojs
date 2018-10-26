@@ -7,7 +7,7 @@
     "repository": {
         "url": "https://github.com/iherewy/htmlTojs"
     },
-    "icon": "./src/images/logo.png",
+    "icon": "logo.png",
     "galleryBanner.color": "#cfffe9",
     "engines": {
         "vscode": "^1.28.0"
