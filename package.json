@@ -1,12 +1,14 @@
 {
     "name": "htmltojs",
     "displayName": "htmlTojs",
-    "description": "",
+    "description": "extension for html2js",
     "version": "0.3.0",
     "publisher": "wyhere",
     "repository": {
         "url": "https://github.com/iherewy/htmlTojs"
     },
+    "icon": "./src/images/logo.png",
+    "galleryBanner.color": "#cfffe9",
     "engines": {
         "vscode": "^1.28.0"
     },
