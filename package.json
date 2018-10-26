@@ -3,7 +3,10 @@
     "displayName": "htmlTojs",
     "description": "",
     "version": "0.2.0",
-    "publisher": "htmlTojs",
+    "publisher": "wyhere",
+    "repository": {
+        "url": "https://github.com/iherewy/htmlTojs"
+    },
     "engines": {
         "vscode": "^1.28.0"
     },
