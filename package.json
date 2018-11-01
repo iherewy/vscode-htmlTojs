@@ -16,14 +16,19 @@
         "Other"
     ],
     "activationEvents": [
-        "onCommand:extension.toJs"
+        "onCommand:extension.toJs1",
+        "onCommand:extension.toJs2"
     ],
     "main": "./out/extension",
     "contributes": {
         "commands": [
             {
-                "command": "extension.toJs",
+                "command": "extension.toJs1",
                 "title": "htmlTojs"
+            },
+            {
+                "command": "extension.toJs2",
+                "title": "htmlTojs str"
             }
         ]
     },
